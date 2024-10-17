@@ -1,4 +1,4 @@
-![Rebrand](https://github.com/user-attachments/assets/b5645dc6-3dd4-459b-9581-4f157f0ddf3e)
+![Rebrand](https://github.com/user-attachments/assets/d8c5bd88-ea31-4e98-b8ed-b955f6cd3279)
 
 > Create concept designs with competitor branding using product images.
 #
@@ -30,6 +30,10 @@ Rebrand’s purpose is to enable users to visualize how a product would appear w
 [Makeshift](https://github.com/sourceduty/Makeshift_DALL-E_3)
 <br>
 [Animal Product](https://github.com/sourceduty/Animal_Product)
+
+#
+
+![Rebrand](https://github.com/user-attachments/assets/b5645dc6-3dd4-459b-9581-4f157f0ddf3e)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
