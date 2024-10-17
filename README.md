@@ -10,7 +10,7 @@ Rebrand’s purpose is to enable users to visualize how a product would appear w
 #
 ![Rebrand](https://github.com/user-attachments/assets/6d599432-3783-456b-8530-80715fce3b66)
 #
-![Doritos](https://github.com/user-attachments/assets/0dcd1ea2-e26d-4852-8227-a2c8d0387ab9)
+![Rebranded](https://github.com/user-attachments/assets/ac78909f-87c4-4168-be55-344925b354a7)
 
 #
 ### Related Links
