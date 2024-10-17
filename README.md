@@ -10,7 +10,7 @@ Rebrand’s purpose is to enable users to visualize how a product would appear w
 #
 ![Rebrand](https://github.com/user-attachments/assets/6d599432-3783-456b-8530-80715fce3b66)
 #
-![Rebranded](https://github.com/user-attachments/assets/ac78909f-87c4-4168-be55-344925b354a7)
+![Rebranded](https://github.com/user-attachments/assets/8f815014-e390-4e2d-8481-099f278380d6)
 
 #
 ### Related Links
