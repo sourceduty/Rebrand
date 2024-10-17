@@ -8,6 +8,11 @@
 Rebrand’s purpose is to enable users to visualize how a product would appear with different brand elements, such as logos, colors, and design motifs. By incorporating these branding elements into the design, Rebrand creates an engaging and fresh perspective on familiar products, which can be valuable for competitive analysis, brand strategy, or even hypothetical rebranding exercises. Ultimately, this custom GPT allows users to explore potential market scenarios and design inspirations by blending product functionality with creative branding insights.
 
 #
+![Rebrand](https://github.com/user-attachments/assets/6d599432-3783-456b-8530-80715fce3b66)
+#
+![Doritos](https://github.com/user-attachments/assets/0dcd1ea2-e26d-4852-8227-a2c8d0387ab9)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
