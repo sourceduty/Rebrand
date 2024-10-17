@@ -30,6 +30,10 @@ Rebrand’s purpose is to enable users to visualize how a product would appear w
 [Makeshift](https://github.com/sourceduty/Makeshift_DALL-E_3)
 <br>
 [Animal Product](https://github.com/sourceduty/Animal_Product)
+<br>
+[Concept Design](https://github.com/sourceduty/Concept_Design)
+<br>
+[Image Emulator](https://github.com/sourceduty/Image_Emulator)
 
 #
 
