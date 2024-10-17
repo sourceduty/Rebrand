@@ -1,4 +1,4 @@
-![Rebranded](https://github.com/user-attachments/assets/0524d458-8b34-495d-a87a-9dbfd196f666)
+![General Pepsi](https://github.com/user-attachments/assets/13a1ea2e-5a9d-4df4-8fd6-a87e3daaf212)
 
 > Create concept designs with competitor branding using product images.
 #
@@ -7,6 +7,8 @@
 
 Rebrand’s purpose is to enable users to visualize how a product would appear with different brand elements, such as logos, colors, and design motifs. By incorporating these branding elements into the design, Rebrand creates an engaging and fresh perspective on familiar products, which can be valuable for competitive analysis, brand strategy, or even hypothetical rebranding exercises. Ultimately, this custom GPT allows users to explore potential market scenarios and design inspirations by blending product functionality with creative branding insights.
 
+#
+![Rebranded](https://github.com/user-attachments/assets/0524d458-8b34-495d-a87a-9dbfd196f666)
 #
 ![Rebrand](https://github.com/user-attachments/assets/6d599432-3783-456b-8530-80715fce3b66)
 #
