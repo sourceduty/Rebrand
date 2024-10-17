@@ -1,4 +1,4 @@
-![Rebrand](https://github.com/user-attachments/assets/d8c5bd88-ea31-4e98-b8ed-b955f6cd3279)
+![Rebranded](https://github.com/user-attachments/assets/0524d458-8b34-495d-a87a-9dbfd196f666)
 
 > Create concept designs with competitor branding using product images.
 #
